@@ -41,7 +41,7 @@ function UpcomingInterview() {
                   <p>Start Time: {currElem.startTime}</p>
                   <p>End Time: {currElem.endTime}</p>
                   <p>
-                    Participents:
+                    Participants:
                     <ul>
                       {currElem.usersInvited.map((email) => {
                         return <li>{email}</li>;
