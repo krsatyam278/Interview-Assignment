@@ -67,7 +67,7 @@ function UpcomingInterview() {
                 </Card.Link>
               </Card.Body>
             </Card>
-          </div>
+          </div> 
         );
       })}
     </Container>
